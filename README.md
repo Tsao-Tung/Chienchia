@@ -16,6 +16,12 @@
 - 現代標點符號，以及古代漢語勾乙號「𖿢」、重文號「𖿣」；
 - 易經、太玄經、算籌、中國象棋、中國傳統圓形吉祥圖案等符號；
 
+## 預覽
+![](./documentation/Chienchia-1.jpg)
+![](./documentation/Chienchia-2.jpg)
+![](./documentation/Chienchia-3.jpg)
+![](./documentation/Chienchia-4.jpg)
+
 ## 授權信息
 本字體在 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目基礎上改造，採用 [SIL Open Font License 1.1](https://openfontlicense.org) 授權許可。Klee 是 FONTWORKS 的商標。
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。[猫啃網](https://www.maoken.com/)亦提供 SIL Open Font License 1.1 非官方[簡體中文譯本](https://www.maoken.com/ofl)。

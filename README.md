@@ -31,7 +31,7 @@
 ## 鳴謝
 - [日本蒙納株式會社](http://fontworks.co.jp) 提供原版開源字體； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - 原始字體的設計師周建豪（Francis Chow）先生；
-- [落霞孤鹜](https://github.com/lxgw)的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)
+- [落霞孤鹜](https://github.com/lxgw)的[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)；
 - [特里王「古籍規範字形工具包」及「源古」系列字體](https://zhuanlan.zhihu.com/p/1897044158293717296)提供技術支持和字形參考；
 - [韩泳思](https://github.com/yeongsy)等協助完善字型；
 - 部分部件或整體字形借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)、[芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai) 或 [Y 式筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)；
